@@ -1,0 +1,59 @@
+
+body{
+    color: #40514E;
+  margin: 0%;
+  text-align: center;
+font-family: "Merriweather", serif;
+}
+h1{color: brown;}
+h2{color: red;
+        font-size: 100.5%;
+        font-family: "Sacramento", cursive;
+}
+p{color: purple;}
+address{color: blue;}
+
+.top-container{
+    background-color: #E4F9F5;
+    
+    padding: 5px  0px;
+}
+
+img{
+  border-radius: 50%;
+}
+.middle-container{
+    background-color: pink;
+          font-size: 0.95rem;
+          padding: 10px 500px;
+          padding-top: 5%;
+          padding-bottom: 5%;
+        }
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding:50px 150px 50px;
+}
+
+
+a{
+    color: black;
+      font-family: "Montserrat", sans-serif;
+      margin: 10px 20px;
+      text-decoration: none;
+      
+      }
+    
+      a:hover{
+        color: purple;
+      }
+
+        .topRightFixed{
+        height: auto;
+        position: fixed;
+        top: 0%;
+        right: 0%;
+        padding: 5px;
+        font-size: 1.4em;
+        color: black;
+        }
